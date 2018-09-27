@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MyData" />
-        <activity android:name=".MyStatistics"></activity>
+        <activity android:name=".MyStatistics" />
+        <activity android:name=".StartGuessing"></activity>
     </application>
 
 </manifest>
